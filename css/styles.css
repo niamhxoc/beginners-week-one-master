@@ -1,0 +1,57 @@
+body {
+    font-family: arial;
+    background-color: rgb(230,238,255);
+    color: rgb(0,24,77);
+    border-style: dashed;
+    border-color: slateblue;
+}
+div {
+    min-height: 10vh;
+    width: 100vw;
+}
+h1 {
+    font-size: 6em;
+    font-family: cursive;
+    text-align: center;
+    background-color: rgb(128,168,255);
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: 35px;
+    border-color: rgb(128,168,255);
+    border-style: solid;
+}
+h2 {
+   font-size: 3em;
+   font-family: cursive;
+   text-align: center;
+   margin-left: 35px;
+   margin-right: 35px;
+}
+img {
+    display: block;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 130px;
+}
+p {
+    text-align: center;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+a {
+  color: rgb(0,0,0);
+}
+ol {
+  list-style: inherit;
+  background-color: rgb(128,168,255);
+  padding: 5px;
+  margin-left: 35px;
+  margin-right: 50px;
+}
+ul {
+  list-style: upper-roman;
+  background-color: rgb(128,168,255);
+  padding: 5px;
+  margin-left: 35px;
+  margin-right: 50px;
+}
